@@ -10,7 +10,7 @@ const participants = [
     name: "josemaNavNor",
     description: "Desarrollador Fullstack.",
     stack: "Next.js, Java, C++, MySQL, NoSQL, PHP, JavaScript, TypeScript, Git, GitHub, GitFlow, API Rest.",
-  }
+  },
   {
     name: "Evelyn",
     description: "Programador.",
