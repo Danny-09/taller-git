@@ -9,7 +9,7 @@ const participants = [
   {
     name: "WhittyGrehe",
     description: "Ingeniero en Sistemas Computacionales",
-    stack: "Laravel, Next.js, Nest.js, Vue.js, React, Java, MySQL, PHP, JavaScript, TypeScript, Git, GitHub, GitFlow, API Rest.",
+    stack: "Laravel, Next.js, Nest.js, React, Java, MySQL, PHP, JavaScript, TypeScript, Git, GitHub, API Rest.",
   },
 ];
 
