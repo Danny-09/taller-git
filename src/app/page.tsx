@@ -7,10 +7,15 @@ const participants = [
     stack: "Laravel, Next.js, Nest.js, Vue.js, React, Java, MySQL, PHP, JavaScript, TypeScript, Git, GitHub, GitFlow, API Rest.",
   },
   {
+    name: "josemaNavNor",
+    description: "Desarrollador Fullstack.",
+    stack: "Next.js, Java, C++, MySQL, NoSQL, PHP, JavaScript, TypeScript, Git, GitHub, GitFlow, API Rest.",
+  },
+  {
     name: "Panqueque",
     description: "Estudiante de Ingeniería en Sistemas.",
     stack: "Next.js, Nest.js, React, Java, MySQL, PHP, JavaScript, Git, GitHub, API Rest.",
-  },
+  }
 ];
 
 export default function Home() {
