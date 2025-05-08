@@ -6,6 +6,12 @@ const participants = [
     description: "Desarrollador Fullstack.",
     stack: "Laravel, Next.js, Nest.js, Vue.js, React, Java, MySQL, PHP, JavaScript, TypeScript, Git, GitHub, GitFlow, API Rest.",
   },
+
+  {
+    name: "Carlos",
+    description: "Estudiante Unisierra",
+    stack: "HTML, CSS, JavaScript, C#, Java, MySQL",
+  },
 ];
 
 export default function Home() {
