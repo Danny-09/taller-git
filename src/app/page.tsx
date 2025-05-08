@@ -8,7 +8,7 @@ const participants = [
   },
   {
     name: "WhittyGrehe",
-    description: "Ingeniero en Sistemas Computacionales",
+    description: "Ingeniero en Sistemas Computacionales (8 Semestre)",
     stack: "Laravel, Next.js, Nest.js, React, Java, MySQL, PHP, JavaScript, TypeScript, Git, GitHub, API Rest.",
   },
 ];
